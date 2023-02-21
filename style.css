@@ -16,8 +16,16 @@ section {
 
 .half-width {
     width: 50%;
+    padding-left: 4%;
 }
 
 .half-width img {
     width: 85%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: orchid;
+    padding: 10px 40px;
+    border-radius: 10px;
 }
